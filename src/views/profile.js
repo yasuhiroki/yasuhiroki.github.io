@@ -9,7 +9,7 @@ module.exports = {
           m("img.br-100.h4.w4.dib.ba.b--black-05.pa2", {
             src: "https://avatars2.githubusercontent.com/u/3108110?v=4&s=460"
           }),
-          m("div", m("a", {href: "https://github.com/mrmrs"}, "GitHub")),
+          m("div", m("a", {href: "https://github.com/yasuhiroki"}, "GitHub")),
           m("div", m("a", {href: "http://yasuhiroki.hatenablog.com/"}, "はてなブログ")),
           m("div", m("a", {href: "https://qiita.com/yasuhiroki"}, "Qiita")),
           m("div", m("a", {href: "https://www.slideshare.net/yasuhirokiyota/"}, "SlideShare")),
