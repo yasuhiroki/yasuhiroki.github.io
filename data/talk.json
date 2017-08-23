@@ -11,10 +11,19 @@
   {
     "title": "分身の術",
     "url": "https://www.slideshare.net/yasuhirokiyota/ss-73260442",
-    "thumbnail_url": "https://cdn.slidesharecdn.com/ss_thumbnails/codekaizen3-170629155254-thumbnail.jpg",
+    "thumbnail_url": "https://cdn.slidesharecdn.com/ss_thumbnails/productivity-170317172831-thumbnail.jpg",
     "place": "Productivity Engineering - Forkwell Meetup #4",
     "place_url": "https://forkwell.connpass.com/event/51332/",
     "date": "2017/03/18",
+    "memo": ""
+  },
+  {
+    "title": "Elixir LT",
+    "url": "https://yasuhiroki.github.io/elixir-lt/",
+    "thumbnail_url": "https://avatars2.githubusercontent.com/u/3108110?v=4&s=460",
+    "place": "Elixir入門者LT大会",
+    "place_url": "https://beam-lang.connpass.com/event/51637/",
+    "date": "2017/06/02",
     "memo": ""
   },
   {
@@ -29,7 +38,7 @@
   {
     "title": "シェル芸術 <クワイン編>",
     "url": "http://qiita.com/yasuhiroki/items/7e66ffdca67e834f55a1",
-    "thumbnail_url": "https://cdn.slidesharecdn.com/ss_thumbnails/codekaizen3-170629155254-thumbnail.jpg",
+    "thumbnail_url": "http://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
     "place": "第29回シェル芸勉強会",
     "place_url": "https://blog.ueda.tech/?p=9922",
     "date": "2017/07/02",
