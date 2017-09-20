@@ -43,5 +43,14 @@
     "place_url": "https://blog.ueda.tech/?p=9922",
     "date": "2017/07/02",
     "memo": ""
+  },
+  {
+    "title": "CircleCI 2.0 奮闘記",
+    "url": "https://speakerdeck.com/yasuhiroki/circleci-meetup3-lt",
+    "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/2f70a77178a24629b5ec7f5d3d93e649/slide_0.jpg",
+    "place": "CircleCI Meetup Tokyo #3",
+    "place_url": "https://connpass.com/event/64629/",
+    "date": "2017/09/20",
+    "memo": ""
   }
 ]
