@@ -37,10 +37,10 @@
   },
   {
     "title": "シェル芸術 <クワイン編>",
-    "url": "http://qiita.com/yasuhiroki/items/7e66ffdca67e834f55a1",
+    "url": "https://qiita.com/yasuhiroki/items/7e66ffdca67e834f55a1",
     "thumbnail_url": "http://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
     "place": "第29回シェル芸勉強会",
-    "place_url": "https://blog.ueda.tech/?p=9922",
+    "place_url": "https://usptomo.doorkeeper.jp/events/61406",
     "date": "2017/07/02",
     "memo": ""
   },
@@ -51,6 +51,24 @@
     "place": "CircleCI Meetup Tokyo #3",
     "place_url": "https://connpass.com/event/64629/",
     "date": "2017/09/20",
+    "memo": ""
+  },
+  {
+    "title": "シェル芸クワインの作り方",
+    "url": "https://qiita.com/yasuhiroki/items/6623a82ba27391eaeacf",
+    "thumbnail_url": "http://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+    "place": "第31回シェル芸勉強会",
+    "place_url": "https://usptomo.doorkeeper.jp/events/65176",
+    "date": "2017/10/07",
+    "memo": ""
+  },
+  {
+    "title": "開発者(個人)のためのJenkins 運用編",
+    "url": "https://speakerdeck.com/yasuhiroki/kai-fa-zhe-ge-ren-falsetamefalsejenkins-yun-yong-bian",
+    "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/2f70a77178a24629b5ec7f5d3d93e649/thumb_slide_0.jpg",
+    "place": "第11回 Jenkins勉強会 LT",
+    "place_url": "https://www.meetup.com/ja-JP/Tokyo-Jenkins-Area-Meetup/events/243902903/?eventId=243902903",
+    "date": "2017/11/08",
     "memo": ""
   }
 ]
