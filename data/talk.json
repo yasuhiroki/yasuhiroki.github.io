@@ -70,5 +70,14 @@
     "place_url": "https://www.meetup.com/ja-JP/Tokyo-Jenkins-Area-Meetup/events/243902903/?eventId=243902903",
     "date": "2017/11/08",
     "memo": ""
+  },
+  {
+    "title": "Rubyの正規表現を調べてみた",
+    "url": "https://speakerdeck.com/yasuhiroki/rubyfalsezheng-gui-biao-xian-wodiao-betemita",
+    "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/feeb555edbec4914b41eb1cd0032eb52/preview_slide_0.jpg",
+    "place": "Ebisu.rb #18",
+    "place_url": "https://ebisurb.connpass.com/event/100874/",
+    "date": "2018/09/26",
+    "memo": ""
   }
 ]
