@@ -1,65 +1,29 @@
 [
   {
-    "title": "コードレビューの文化を手探りで作っていった話",
-    "url": "https://www.slideshare.net/yasuhirokiyota/ss-68577272",
-    "thumbnail_url": "https://cdn.slidesharecdn.com/ss_thumbnails/codekaizen3-170629155254-thumbnail.jpg",
-    "place": "コード改善 meetup #2",
-    "place_url": "https://kaizen.connpass.com/event/42118/",
-    "date": "2016/11/10",
+    "title": "circleci.vim",
+    "url": "https://speakerdeck.com/yasuhiroki/circleci-dot-vim",
+    "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/6567419c0d7741d7b257c7a79b47c2aa/slide_0.jpg?542176",
+    "place": "CircleCI User Community Meetup Tokyo #6",
+    "place_url": "https://circleci.connpass.com/event/140666/",
+    "date": "2019/08/23",
     "memo": ""
   },
   {
-    "title": "分身の術",
-    "url": "https://www.slideshare.net/yasuhirokiyota/ss-73260442",
-    "thumbnail_url": "https://cdn.slidesharecdn.com/ss_thumbnails/productivity-170317172831-thumbnail.jpg",
-    "place": "Productivity Engineering - Forkwell Meetup #4",
-    "place_url": "https://forkwell.connpass.com/event/51332/",
-    "date": "2017/03/18",
+    "title": "ベンチャー企業がCircleCIを選んだ理由と活用方法",
+    "url": "https://speakerdeck.com/yasuhiroki/bentiyaqi-ye-gacircleciwoxuan-ndali-you-tohuo-yong-fang-fa",
+    "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/2ce0bed39c8641c7b58ed3e3ae2fa7d5/slide_0.jpg?500028",
+    "place": "CircleCI User Community Meetup Tokyo #2",
+    "place_url": "https://circleci.connpass.com/event/120371/",
+    "date": "2019/03/05",
     "memo": ""
   },
   {
-    "title": "Elixir LT",
-    "url": "https://yasuhiroki.github.io/elixir-lt/",
-    "thumbnail_url": "https://avatars2.githubusercontent.com/u/3108110?v=4&s=460",
-    "place": "Elixir入門者LT大会",
-    "place_url": "https://beam-lang.connpass.com/event/51637/",
-    "date": "2017/06/02",
-    "memo": ""
-  },
-  {
-    "title": "コードレビューの文化を少しずつ改善していった話",
-    "url": "https://www.slideshare.net/yasuhirokiyota/ss-77375704",
-    "thumbnail_url": "https://cdn.slidesharecdn.com/ss_thumbnails/codekaizen3-170629155254-thumbnail.jpg",
-    "place": "コード改善 meetup #3",
-    "place_url": "https://kaizen.connpass.com/event/58894/",
-    "date": "2017/06/29",
-    "memo": ""
-  },
-  {
-    "title": "シェル芸術 <クワイン編>",
-    "url": "https://qiita.com/yasuhiroki/items/7e66ffdca67e834f55a1",
-    "thumbnail_url": "http://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
-    "place": "第29回シェル芸勉強会",
-    "place_url": "https://usptomo.doorkeeper.jp/events/61406",
-    "date": "2017/07/02",
-    "memo": ""
-  },
-  {
-    "title": "CircleCI 2.0 奮闘記",
-    "url": "https://speakerdeck.com/yasuhiroki/circleci-meetup3-lt",
-    "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/2f70a77178a24629b5ec7f5d3d93e649/slide_0.jpg",
-    "place": "CircleCI Meetup Tokyo #3",
-    "place_url": "https://connpass.com/event/64629/",
-    "date": "2017/09/20",
-    "memo": ""
-  },
-  {
-    "title": "シェル芸クワインの作り方",
-    "url": "https://qiita.com/yasuhiroki/items/6623a82ba27391eaeacf",
-    "thumbnail_url": "http://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
-    "place": "第31回シェル芸勉強会",
-    "place_url": "https://usptomo.doorkeeper.jp/events/65176",
-    "date": "2017/10/07",
+    "title": "Rubyの正規表現を調べてみた",
+    "url": "https://speakerdeck.com/yasuhiroki/rubyfalsezheng-gui-biao-xian-wodiao-betemita",
+    "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/feeb555edbec4914b41eb1cd0032eb52/preview_slide_0.jpg",
+    "place": "Ebisu.rb #18",
+    "place_url": "https://ebisurb.connpass.com/event/100874/",
+    "date": "2018/09/26",
     "memo": ""
   },
   {
@@ -72,12 +36,66 @@
     "memo": ""
   },
   {
-    "title": "Rubyの正規表現を調べてみた",
-    "url": "https://speakerdeck.com/yasuhiroki/rubyfalsezheng-gui-biao-xian-wodiao-betemita",
-    "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/feeb555edbec4914b41eb1cd0032eb52/preview_slide_0.jpg",
-    "place": "Ebisu.rb #18",
-    "place_url": "https://ebisurb.connpass.com/event/100874/",
-    "date": "2018/09/26",
+    "title": "シェル芸クワインの作り方",
+    "url": "https://qiita.com/yasuhiroki/items/6623a82ba27391eaeacf",
+    "thumbnail_url": "http://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+    "place": "第31回シェル芸勉強会",
+    "place_url": "https://usptomo.doorkeeper.jp/events/65176",
+    "date": "2017/10/07",
+    "memo": ""
+  },
+  {
+    "title": "CircleCI 2.0 奮闘記",
+    "url": "https://speakerdeck.com/yasuhiroki/circleci-meetup3-lt",
+    "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/2f70a77178a24629b5ec7f5d3d93e649/slide_0.jpg",
+    "place": "CircleCI Meetup Tokyo #3",
+    "place_url": "https://connpass.com/event/64629/",
+    "date": "2017/09/20",
+    "memo": ""
+  },
+  {
+    "title": "シェル芸術 <クワイン編>",
+    "url": "https://qiita.com/yasuhiroki/items/7e66ffdca67e834f55a1",
+    "thumbnail_url": "http://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+    "place": "第29回シェル芸勉強会",
+    "place_url": "https://usptomo.doorkeeper.jp/events/61406",
+    "date": "2017/07/02",
+    "memo": ""
+  },
+  {
+    "title": "コードレビューの文化を少しずつ改善していった話",
+    "url": "https://www.slideshare.net/yasuhirokiyota/ss-77375704",
+    "thumbnail_url": "https://cdn.slidesharecdn.com/ss_thumbnails/codekaizen3-170629155254-thumbnail.jpg",
+    "place": "コード改善 meetup #3",
+    "place_url": "https://kaizen.connpass.com/event/58894/",
+    "date": "2017/06/29",
+    "memo": ""
+  },
+  {
+    "title": "Elixir LT",
+    "url": "https://yasuhiroki.github.io/elixir-lt/",
+    "thumbnail_url": "https://avatars2.githubusercontent.com/u/3108110?v=4&s=460",
+    "place": "Elixir入門者LT大会",
+    "place_url": "https://beam-lang.connpass.com/event/51637/",
+    "date": "2017/06/02",
+    "memo": ""
+  },
+  {
+    "title": "分身の術",
+    "url": "https://www.slideshare.net/yasuhirokiyota/ss-73260442",
+    "thumbnail_url": "https://cdn.slidesharecdn.com/ss_thumbnails/productivity-170317172831-thumbnail.jpg",
+    "place": "Productivity Engineering - Forkwell Meetup #4",
+    "place_url": "https://forkwell.connpass.com/event/51332/",
+    "date": "2017/03/18",
+    "memo": ""
+  },
+  {
+    "title": "コードレビューの文化を手探りで作っていった話",
+    "url": "https://www.slideshare.net/yasuhirokiyota/ss-68577272",
+    "thumbnail_url": "https://cdn.slidesharecdn.com/ss_thumbnails/codekaizen3-170629155254-thumbnail.jpg",
+    "place": "コード改善 meetup #2",
+    "place_url": "https://kaizen.connpass.com/event/42118/",
+    "date": "2016/11/10",
     "memo": ""
   }
 ]
