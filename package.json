@@ -7,8 +7,8 @@
   "scripts": {
     "start": "webpack-dev-server --host 0.0.0.0 -d -w --watch-poll src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack -d src/index.js bundle.js",
-    "watch": "webpack -d --watch src/index.js bundle.js"
+    "build": "webpack -d src/index.js -o bundle.js",
+    "watch": "webpack -d --watch src/index.js -o bundle.js"
   },
   "repository": {
     "type": "git",
