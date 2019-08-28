@@ -21,10 +21,12 @@
   },
   "homepage": "https://github.com/yasuhiroki/yasuhiroki.github.io#readme",
   "dependencies": {
-    "mithril": "^1.1.6",
+    "mithril": "^2.0.4",
     "tachyons": "^4.11.1"
   },
   "devDependencies": {
-    "webpack": "^4.28.3"
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.3.7",
+    "webpack-dev-server": "^3.8.0"
   }
 }
