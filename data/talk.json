@@ -1,5 +1,14 @@
 [
   {
+    "title": "GitHub Actions Parallel Testing",
+    "url": "https://speakerdeck.com/yasuhiroki/github-actions-parallel-testing",
+    "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/e9719fa2851c4ee08aeea71e0b35e171/slide_0.jpg",
+    "place": "GitHub Actions Meetup Tokyo β ",
+    "place_url": "https://gaugt.connpass.com/event/147220/",
+    "date": "2019/10/16",
+    "memo": ""
+  },
+  {
     "title": "circleci.vim",
     "url": "https://speakerdeck.com/yasuhiroki/circleci-dot-vim",
     "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/6567419c0d7741d7b257c7a79b47c2aa/slide_0.jpg?542176",
