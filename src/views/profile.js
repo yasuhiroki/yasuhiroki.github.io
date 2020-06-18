@@ -26,7 +26,6 @@ module.exports = {
             m("a.f5.fw6.db.black.link.hover-blue", {href: "https://www.slideshare.net/yasuhirokiyota/"}, "SlideShare"),
             m("a.f5.fw6.db.black.link.hover-blue", {href: "https://speakerdeck.com/yasuhiroki/"}, "SpeakerDeck"),
             m("a.f5.fw6.db.black.link.hover-blue", {href: "https://stackshare.io/yasuhiroki/yasuhiroki"}, "StackShare"),
-            m("a.f5.fw6.db.black.link.hover-blue", {href: "https://stargzr.net/users/yasuhiroki"}, "stargzr"),
             m("a.f5.fw6.db.black.link.hover-blue", {href: "https://portfolio.forkwell.com/@yasuhiroki"}, "forkwell"),
           ]),
         ]),
