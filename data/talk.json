@@ -1,5 +1,14 @@
 [
   {
+    "title": "自動化を習慣化する",
+    "url": "https://speakerdeck.com/yasuhiroki/zi-dong-hua-woxi-guan-hua-suru",
+    "thumbnail_url": "https://files.speakerdeck.com/presentations/1372fa57140047b0a8fd4b471de661d0/slide_0.jpg",
+    "place": "自動化大好きエンジニアLT会 - vol.3",
+    "place_url": "https://rakus.connpass.com/event/211175/",
+    "date": "2021/05/27",
+    "memo": ""
+  },
+  {
     "title": "GitHub Actions Parallel Testing",
     "url": "https://speakerdeck.com/yasuhiroki/github-actions-parallel-testing",
     "thumbnail_url": "https://speakerd.s3.amazonaws.com/presentations/e9719fa2851c4ee08aeea71e0b35e171/slide_0.jpg",
