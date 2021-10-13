@@ -3,12 +3,12 @@
   "name": "yasuhiroki.github.io",
   "version": "1.0.0",
   "description": "",
-  "main": "bundle.js",
+  "main": "dist/main.js",
   "scripts": {
-    "start": "webpack-dev-server --host 0.0.0.0 -d -w --watch-poll src/index.js",
+    "start": "webpack-dev-server --host 0.0.0.0 -d -w --watch-files src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack -d src/index.js -o bundle.js",
-    "watch": "webpack -d --watch src/index.js -o bundle.js"
+    "build": "webpack -d src/index.js --mode production",
+    "watch": "webpack -d --watch src/index.js --mode production"
   },
   "repository": {
     "type": "git",
@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10",
-    "webpack-dev-server": "^3.11.0"
+    "webpack-cli": "^4.9.0",
+    "webpack-dev-server": "^4.3.1"
   }
 }
