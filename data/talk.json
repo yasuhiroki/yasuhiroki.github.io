@@ -1,5 +1,32 @@
 [
   {
+    "title": " 自分に勉強させるには",
+    "url": "https://speakerdeck.com/yasuhiroki/sierusukuriputowosabaresude-cron-sitai",
+    "thumbnail_url": "https://files.speakerdeck.com/presentations/b7e81ad772b941aebfbb9de9c8b2152a/slide_0.jpg",
+    "place": "エンジニアの勉強法ハックLT- vol.7",
+    "place_url": "https://connpass.com/dashboard/",
+    "date": "2022/03/03",
+    "memo": ""
+  },
+  {
+    "title": "シェルスクリプトをサーバーレスで cron したい",
+    "url": "https://speakerdeck.com/yasuhiroki/sierusukuriputowosabaresude-cron-sitai",
+    "thumbnail_url": "https://files.speakerdeck.com/presentations/cb05cd109367420fb5e12279108539c2/slide_0.jpg",
+    "place": "自動化大好きエンジニアLT会 - vol.6",
+    "place_url": "https://rakus.connpass.com/event/234230/",
+    "date": "2022/02/02",
+    "memo": ""
+  },
+  {
+    "title": "rails new コマンド",
+    "url": "https://speakerdeck.com/yasuhiroki/rails-new-komando",
+    "thumbnail_url": "https://files.speakerdeck.com/presentations/b7e81ad772b941aebfbb9de9c8b2152a/slide_0.jpg",
+    "place": "銀座Rails#41 LT",
+    "place_url": "https://ginza-rails.connpass.com/event/234304/",
+    "date": "2022/01/25",
+    "memo": ""
+  },
+  {
     "title": "自動化を習慣化する",
     "url": "https://speakerdeck.com/yasuhiroki/zi-dong-hua-woxi-guan-hua-suru",
     "thumbnail_url": "https://files.speakerdeck.com/presentations/1372fa57140047b0a8fd4b471de661d0/slide_0.jpg",
