@@ -5,10 +5,10 @@
   "description": "",
   "main": "dist/main.js",
   "scripts": {
-    "start": "webpack-dev-server --host 0.0.0.0 -d -w --watch-files src/index.js",
+    "start": "webpack serve --entry ./src/index.js -o dist/ --watch-files src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack -d src/index.js --mode production",
-    "watch": "webpack -d --watch src/index.js --mode production"
+    "build": "webpack --entry ./src/index.js --mode production -o dist/",
+    "watch": "webpack --watch --entry ./src/index.js --mode production -o dist/"
   },
   "repository": {
     "type": "git",
