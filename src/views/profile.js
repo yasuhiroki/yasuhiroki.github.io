@@ -13,7 +13,6 @@ module.exports = {
             m("div", "Kotlin/Android"),
             m("div", "CircleCI"),
             m("div", "GitHub Actions"),
-            m("div", "Jenkins"),
           ])
         ]),
         m("div.outline.w-50", [
@@ -23,10 +22,7 @@ module.exports = {
             m("a.f5.fw6.db.black.link.hover-blue", {href: "https://github.com/yasuhiroki"}, "GitHub"),
             m("a.f5.fw6.db.black.link.hover-blue", {href: "https://qiita.com/yasuhiroki"}, "Qiita"),
             m("a.f5.fw6.db.black.link.hover-blue", {href: "https://zenn.dev/yasuhiroki"}, "Zenn"),
-            m("a.f5.fw6.db.black.link.hover-blue", {href: "https://www.slideshare.net/yasuhirokiyota/"}, "SlideShare"),
             m("a.f5.fw6.db.black.link.hover-blue", {href: "https://speakerdeck.com/yasuhiroki/"}, "SpeakerDeck"),
-            m("a.f5.fw6.db.black.link.hover-blue", {href: "https://stackshare.io/yasuhiroki/yasuhiroki"}, "StackShare"),
-            m("a.f5.fw6.db.black.link.hover-blue", {href: "https://portfolio.forkwell.com/@yasuhiroki"}, "forkwell"),
           ]),
         ]),
       ]),
