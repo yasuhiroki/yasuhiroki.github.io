@@ -1,4 +1,4 @@
-let m = require("mithril");
+import m from "mithril";
 
 let Talk = {
   list: [],
@@ -12,5 +12,5 @@ let Talk = {
   },
 }
 
-module.exports = Talk
+export default Talk
 

@@ -1,7 +1,7 @@
-let m = require("mithril");
-let TalkListView = require("./views/talk_list");
-let ProfileView = require("./views/profile");
-let HeaderView = require("./views/header");
+import m from "mithril";
+import TalkListView from "./views/talk_list.js";
+import ProfileView from "./views/profile.js";
+import HeaderView from "./views/header.js";
 
 let MainView = {
   view: function() {

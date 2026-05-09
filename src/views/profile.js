@@ -1,6 +1,6 @@
-let m = require("mithril")
+import m from "mithril";
 
-module.exports = {
+export default {
   view: function() {
     return m("article.center.mw6.mw7-ns.mb3", [
       m("h1.f4.bg-near-white.mv0.pv2.ph3.bb.b--black-10", "Profile"),

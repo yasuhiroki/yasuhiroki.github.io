@@ -1,7 +1,7 @@
-let m = require("mithril");
-let Talk = require("../models/talk");
+import m from "mithril";
+import Talk from "../models/talk.js";
 
-module.exports = {
+export default {
   oninit: Talk.loadList,
   view: function() {
     return m("article.center.mw6.mw7-ns", [
