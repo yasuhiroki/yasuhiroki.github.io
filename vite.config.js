@@ -16,7 +16,10 @@ export default defineConfig({
       name: 'html-transform',
       apply: 'serve',
       transformIndexHtml(html) {
-        return html.replace('dist/main.js', 'src/index.js')
+        return html.replace(
+          '<script src="dist/main.js"></script>',
+          '<script type="module" src="/src/index.js"></script>'
+        )
       }
     }
   ]
